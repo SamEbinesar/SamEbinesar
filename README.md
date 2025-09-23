@@ -3,7 +3,7 @@
 ## About Me
 **Full Stack Developer** and a **BE IT graduate** passionate about building web applications and exploring blockchain technology. I love turning ideas into real-world projects and learning new technologies along the way.
 
-- 🎓 Completed **BE in Information Technology**  
+- 🎓 Completed **BE in Information Technology** in Annamalai University, Chidambaram.
 - 💻 Currently working on **Full Stack Development Intern** at Kodnest Technologies, Bangalore.  
 - 🔗 Final year project: **Decentralized ID Management System using Blockchain**
 - 🌱 Exploring **Web3, React.js, Firebase, and modern web technologies**  
@@ -32,8 +32,9 @@ UI/UX Design, Responsive Web Development, Blockchain Integration, E-commerce Dev
 
 
 ### 2. **KSVEGETABLES E-Commerce Website**
-- Full-stack e-commerce website using **HTML, CSS, JavaScript, and Firebase**  
-- Features: Product listing, search functionality, and user authentication  
+- Full-stack e-commerce website developed for KS Vegetables Shop.
+- Built with **HTML, CSS, JavaScript, and Firebase**  
+- Features: User authentication, profile and order pages.  
 - Live Demo: [KSVEGETABLES](https://samebinesar.github.io/KSVEGETABLES.com/)
 
 ### 3. **Portfolio Website**
