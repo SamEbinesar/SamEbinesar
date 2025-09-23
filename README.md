@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Sam Ebinesar, Full Stack Developer.
+# Hi there 👋, I'm Sam Ebinesar, Full Stack Developer
 
 ## About Me
-**Full Stack Developer t** and a **BE IT graduate** passionate about building web applications and exploring blockchain technology. I love turning ideas into real-world projects and learning new technologies along the way.
+**Full Stack Developer** and a **BE IT graduate** passionate about building web applications and exploring blockchain technology. I love turning ideas into real-world projects and learning new technologies along the way.
 
 - 🎓 Completed **BE in Information Technology**  
 - 💻 Currently working on **Full Stack Development Intern** at Kodnest Technologies, Bangalore.  
@@ -59,9 +59,10 @@ UI/UX Design, Responsive Web Development, Blockchain Integration, E-commerce Dev
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_It-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samebinesar/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@samebinesar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/samebinesar)  
-[![Gmail](https://img.shields.io/badge/Gmail-samebinesar@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:samebinesar@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_It-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sam-it-2247202b6)  
+[![Mobile](https://img.shields.io/badge/Mobile-+91-25BFFF?style=for-the-badge&logo=android)](tel:+91-6383011956)  
+[![Email](https://img.shields.io/badge/Email-samebinesar@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:samebinesar2004@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=github)](https://samebinesar.github.io/NewPort/)
 
 ---
 
