@@ -7,7 +7,7 @@
 - 💻 Currently working on **Full Stack Development Intern** at Kodnest Technologies, Bangalore.  
 - 🔗 Final year project: **Decentralized ID Management System using Blockchain**
 - 🌱 Exploring **Web3, React.js, Firebase, and modern web technologies**  
-- 📫 Reach me at: [SamEbinesar.com]((https://samebinesar.github.io/NewPort/)
+- 📫 Reach me at: [SamEbinesar.com](https://samebinesar.github.io/NewPort/)
 - ✉️ Mail me:  [ Email](mailto:samebinesar2004@gmail.com)  
 
 ---
