@@ -1,20 +1,21 @@
-# Hi there 👋, I'm Sam It
+# Hi there 👋, I'm Sam Ebinesar, Full Stack Developer.
 
 ## About Me
-I am a **Full Stack Development Intern at Kodnest** and a **BE IT graduate** passionate about building web applications and exploring blockchain technology. I love turning ideas into real-world projects and learning new technologies along the way.  
+**Full Stack Developer t** and a **BE IT graduate** passionate about building web applications and exploring blockchain technology. I love turning ideas into real-world projects and learning new technologies along the way.
 
 - 🎓 Completed **BE in Information Technology**  
-- 💻 Currently working on **Full Stack Development**  
-- 🔗 Final year project: **Decentralized ID Management System using Blockchain**  
+- 💻 Currently working on **Full Stack Development Intern** at Kodnest Technologies, Bangalore.  
+- 🔗 Final year project: **Decentralized ID Management System using Blockchain**
 - 🌱 Exploring **Web3, React.js, Firebase, and modern web technologies**  
-- 📫 Reach me at: [samebinesar@gmail.com](mailto:samebinesar@gmail.com)  
+- 📫 Reach me at: [SamEbinesar.com]((https://samebinesar.github.io/NewPort/)
+- ✉️ Mail me:  [ Email](mailto:samebinesar2004@gmail.com)  
 
 ---
 
 ## Skills
 
 **Languages & Frameworks:**  
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Solidity`  
+`HTML` `CSS` `JavaScript` `Java` `Python` `C++` `SQL` `React.js` `Node.js` `Solidity`  
 
 **Tools & Technologies:**  
 `Firebase` `Git` `GitHub` `Vite` `VS Code`  
@@ -43,6 +44,7 @@ UI/UX Design, Responsive Web Development, Blockchain Integration, E-commerce Dev
 ### 4. **Weather Information App**
 - Displays real-time weather data for any location  
 - Built with **JavaScript and public weather APIs**
+- Live Demo: [Weather-Info-Api](https://samebinesar.github.io/Weather-api/)
 
 
 *Explore all my projects in the [Repositories](https://github.com/samebinesar?tab=repositories) section.*  
