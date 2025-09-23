@@ -61,7 +61,6 @@ UI/UX Design, Responsive Web Development, Blockchain Integration, E-commerce Dev
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_It-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sam-it-2247202b6)  
-[![Mobile](https://img.shields.io/badge/Mobile-+91-25BFFF?style=for-the-badge&logo=android)](tel:+91-6383011956)  
 [![Email](https://img.shields.io/badge/Email-samebinesar@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:samebinesar2004@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=github)](https://samebinesar.github.io/NewPort/)
 
