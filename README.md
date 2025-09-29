@@ -4,9 +4,9 @@
 I’m a **Full Stack Developer** and a **BE IT graduate** passionate about building web applications and exploring blockchain technology. I love turning ideas into real-world projects and learning new technologies along the way.  
 
 - 🎓 Completed **BE in Information Technology** from Annamalai University, Chidambaram  
-- 💻 Currently a **Full Stack Development Intern** at Kodnest Technologies, Bangalore  
-- 🔗 Final Year Project: **Decentralized ID Management System using Blockchain**  
-- 🌱 Exploring **Web3, React.js, Firebase, and modern web technologies**  
+- 💻 Currently doing **Full Stack Development Intern** at Kodnest Technologies, Bangalore (in Remote).  
+- 🔗 BE Final Year Project: **Decentralized ID Management System using Blockchain**  
+- 🌱 Exploring **React.js, Firebase, and modern web technologies**  
 - 📫 Reach me at: [Portfolio](https://samebinesar.github.io/NewPort/)  
 - ✉️ Mail me: [samebinesar2004@gmail.com](mailto:samebinesar2004@gmail.com)  
 
