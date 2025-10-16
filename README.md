@@ -4,7 +4,7 @@
 I’m a **Full Stack Developer** and a **BE IT graduate** passionate about building web applications and exploring blockchain technology. I love turning ideas into real-world projects and learning new technologies along the way.  
 
 - 🎓 Completed **BE in Information Technology** from Annamalai University, Chidambaram  
-- 💻 Currently doing **Full Stack Development Intern** at Kodnest Technologies, Bangalore (in Remote).  
+- 💻 Currently doing **Full Stack Development Intern** at Kodnest Technologies, Bangalore  
 - 🔗 BE Final Year Project: **Decentralized ID Management System using Blockchain**  
 - 🌱 Exploring **React.js, Firebase, and modern web technologies**  
 - 📫 Reach me at: [Portfolio](https://samebinesar.github.io/NewPort/)  
@@ -35,14 +35,19 @@ UI/UX Design | Responsive Web Development | Blockchain Integration | E-commerce 
 - Full-stack e-commerce website for KS Vegetables Shop  
 - Built with **HTML, CSS, JavaScript, and Firebase**  
 - Features: User authentication, profile & order pages  
-- 🔗 Live Demo: [KSVEGETABLES](https://samebinesar.github.io/KSVEGETABLES.com/)  
+- 🔗 Live Demo: [KSVEGETABLES](https://samebinesar.github.io/KSVEGETABLES.com/)
+### 3️⃣ TaskBuddy - Smart TaskManager App
+- A simple and efficient task management web app
+- Helps users organize, prioritize, and complete daily tasks easily
+- Built with React.js (Vite) and styled using CSS
+- 🔗 Live Demo: [TaskBuddy](https://samebinesar.github.io/Taskbuddy/)
 
-### 3️⃣ Portfolio Website
+### 4️⃣ Portfolio Website
 - Personal portfolio showcasing projects and skills  
 - Built with **HTML, CSS, and JavaScript**  
 - 🔗 Live Demo: [Portfolio](https://samebinesar.github.io/NewPort/)  
 
-### 4️⃣ Weather Information App
+### 5️⃣ Weather Information App
 - Real-time weather data for any location  
 - Built with **JavaScript and public weather APIs**  
 - 🔗 Live Demo: [Weather-Info-Api](https://samebinesar.github.io/Weather-api/)  
