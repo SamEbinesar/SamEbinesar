@@ -7,7 +7,7 @@ I’m a **Full Stack Developer** and a **BE IT graduate** passionate about build
 - 💻 Currently doing **Full Stack Development Intern** at RPN Tech World, Chennai  
 - 🔗 BE Final Year Project: **Decentralized ID Management System using Blockchain**  
 - 🌱 Exploring **React.js, Firebase, and modern web technologies**  
-- 📫 Reach me at: [Portfolio](https://samebinesar.github.io/NewPort/)  
+- 📫 Reach me at: [Portfolio](https://samwebsite-zeta.vercel.app/)  
 - ✉️ Mail me: [samebinesar2004@gmail.com](mailto:samebinesar2004@gmail.com)  
 
 ---
