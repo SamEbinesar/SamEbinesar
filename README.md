@@ -35,7 +35,7 @@ UI/UX Design | Responsive Web Development | Blockchain Integration | E-commerce 
 - Full-stack e-commerce website for KS Vegetables Shop  
 - Built with **HTML, CSS, JavaScript, and Firebase**  
 - Features: User authentication, profile & order pages  
-- 🔗 Live Demo: [KSVEGETABLES](https://samebinesar.github.io/KSVEGETABLES.com/)
+- 🔗 Live Demo: [KSVEGETABLES](https://ksvegetablesofficial.vercel.app/)
 ### 3️⃣ TaskBuddy - Smart TaskManager App
 - A simple and efficient task management web app
 - Helps users organize, prioritize, and complete daily tasks easily
@@ -45,7 +45,7 @@ UI/UX Design | Responsive Web Development | Blockchain Integration | E-commerce 
 ### 4️⃣ Portfolio Website
 - Personal portfolio showcasing projects and skills  
 - Built with **HTML, CSS, and JavaScript**  
-- 🔗 Live Demo: [Portfolio](https://samebinesar.github.io/NewPort/)  
+- 🔗 Live Demo: [Portfolio](https://samwebsite-zeta.vercel.app/)  
 
 ### 5️⃣ Weather Information App
 - Real-time weather data for any location  
