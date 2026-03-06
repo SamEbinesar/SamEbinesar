@@ -4,8 +4,7 @@
 I’m a **Full Stack Developer** and a **BE IT graduate** passionate about building web applications and exploring blockchain technology. I love turning ideas into real-world projects and learning new technologies along the way.  
 
 - 🎓 Completed **BE in Information Technology** from Annamalai University, Chidambaram  
-- 💻 Currently working as an **Full Stack Developer** at RPN Tech World, Chidambaram    
-- 🌱 Exploring **Professional MERN Stack Developer**  
+- 💻 Currently working as an **Full Stack Developer** at RPN Tech World, Chidambaram     
 - 📫 Reach me at: [Portfolio](https://samwebsite-zeta.vercel.app/)  
 - ✉️ Mail me: [samebinesar2004@gmail.com](mailto:samebinesar2004@gmail.com)  
 
