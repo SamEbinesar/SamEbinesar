@@ -4,9 +4,8 @@
 I’m a **Full Stack Developer** and a **BE IT graduate** passionate about building web applications and exploring blockchain technology. I love turning ideas into real-world projects and learning new technologies along the way.  
 
 - 🎓 Completed **BE in Information Technology** from Annamalai University, Chidambaram  
-- 💻 Currently working as an **Full Stack Developer** at RPN Tech World, Chennai  
-- 🔗 BE Final Year Project: **Decentralized ID Management System using Blockchain**  
-- 🌱 Exploring **React.js, Firebase, and modern web technologies**  
+- 💻 Currently working as an **Full Stack Developer** at RPN Tech World, Chidambaram    
+- 🌱 Exploring **Professional MERN Stack Developer**  
 - 📫 Reach me at: [Portfolio](https://samwebsite-zeta.vercel.app/)  
 - ✉️ Mail me: [samebinesar2004@gmail.com](mailto:samebinesar2004@gmail.com)  
 
@@ -15,13 +14,13 @@ I’m a **Full Stack Developer** and a **BE IT graduate** passionate about build
 ## 🛠 Skills
 
 **Languages & Frameworks:**  
-`HTML` `CSS` `JavaScript` `Java` `Python` `C++` `SQL` `React.js` `Node.js` `Solidity`  
+ `React.js` `Node.js` 'MongoDB' 'Express' `HTML` `CSS` `JavaScript` `Java` `Python` `C++` `Mysql` 'RestAPIs' 
 
 **Tools & Technologies:**  
-`Firebase` `Git` `GitHub` `Vite` `VS Code`  
+'VS Code' 'Git' 'GitHub' 'Antigravity' 
 
 **Other Skills:**  
-UI/UX Design | Responsive Web Development | Blockchain Integration | E-commerce Development  
+UI/UX Design | Responsive Web Development | E-commerce Development  
 
 ---
 
@@ -33,14 +32,14 @@ UI/UX Design | Responsive Web Development | Blockchain Integration | E-commerce 
 
 ### 2️⃣ KSVEGETABLES E-Commerce Website
 - Full-stack e-commerce website for KS Vegetables Shop  
-- Built with **HTML, CSS, JavaScript, and Firebase**  
-- Features: User authentication, profile & order pages  
+- Built with **React.js, Node.js, Firebase**  
+- Features: User authentication, profile & order pages with admin control 
 - 🔗 Live Demo: [KSVEGETABLES](https://ksvegetablesofficial.vercel.app/)
-### 3️⃣ TaskBuddy - Smart TaskManager App
-- A simple and efficient task management web app
-- Helps users organize, prioritize, and complete daily tasks easily
-- Built with React.js (Vite) and styled using CSS
-- 🔗 Live Demo: [TaskBuddy](https://samebinesar.github.io/Taskbuddy/)
+### 3️⃣ Chord It - Real Time Chord Zone For Musicians
+- create zones and play music together from anywhere with chord it
+- Experience seamless real-time synchronization of chords and music across all connected devices.
+- Built with MERN Stack
+- 🔗 Live Demo: [ChordIt](https://chordzone.vercel.app/)
 
 ### 4️⃣ Portfolio Website
 - Personal portfolio showcasing projects and skills  
