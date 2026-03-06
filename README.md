@@ -13,10 +13,10 @@ I’m a **Full Stack Developer** and a **BE IT graduate** passionate about build
 ## 🛠 Skills
 
 **Languages & Frameworks:**  
- `React.js` `Node.js` 'MongoDB' 'Express' `HTML` `CSS` `JavaScript` `Java` `Python` `C++` `Mysql` 'RestAPIs' 
+ `React.js` `Node.js` `MongoDB` `Express` `HTML` `CSS` `JavaScript` `Java` `Python` `C++` `Mysql` `RestAPIs` 
 
 **Tools & Technologies:**  
-'VS Code' 'Git' 'GitHub' 'Antigravity' 
+`VS Code` `Git` `GitHub` `Antigravity` `Vercel`
 
 **Other Skills:**  
 UI/UX Design | Responsive Web Development | E-commerce Development  
