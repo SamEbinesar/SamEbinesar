@@ -61,9 +61,9 @@ UI/UX Design | Responsive Web Development | E-commerce Development
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_It-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sam-it-2247202b6)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_It-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samebinesar2004)  
 [![Email](https://img.shields.io/badge/Email-samebinesar2004@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:samebinesar2004@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=github)](https://samebinesar.github.io/NewPort/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=github)](https://samwebsite-zeta.vercel.app/)  
 
 ---
 
